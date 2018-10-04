@@ -77,7 +77,7 @@
 }
 
 @media (max-width: 700px) {
-.menu-icon {
+#navbar nav a.menu-icon {
   display: inline-block;
 }
 #navbar nav a {
