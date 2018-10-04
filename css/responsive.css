@@ -80,9 +80,7 @@
 .menu-icon {
   display: block;
 }
-
-@media (max-width: 700px) {
-.menu-icon {
-  display: block;
+#navbar nav a {
+  display: none;
 }
 }
